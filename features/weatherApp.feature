@@ -1,4 +1,4 @@
-Feature: The Internet Guinea Pig Website
+Feature: The weather app
 
   Scenario Outline: As a user, I can shop cheapest things
 

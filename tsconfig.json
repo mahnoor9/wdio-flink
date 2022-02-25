@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "types": [
+            "node",
+            "webdriverio/async",
+            "@wdio/cucumber-framework",
+            "expect-webdriverio"
+        ],
+        "target" : "ES5",
+        "module" : "commonjs",
+        "strict" : true,
+        "typeRoots": ["node_modules/@types"],
+        "noImplicitAny": false,
+        "strictNullChecks": true,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "moduleResolution": "node",
+        "sourceMap": false,
+        "resolveJsonModule": true,
+    }
+}
